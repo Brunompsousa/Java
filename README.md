@@ -38,3 +38,9 @@ My java studies (IDE: NetBeans)
 • ExPOO_4 - Gets, setters and constructors<br>
 • ExPOO_5 - Public, private and protected<br>
 • ExPOO_6 - Interfaces<br>
+• EmojiFight - Uso de tudo o que foi usado nos outros programas<br>
+• ExPOO_9 - Ligações entre classes<br>
+• ExPOO_10 - Herança entre 2 classes<br>
+• ExPOO_11 - Herança entre varias classes <br>
+• ExPOO_12 - Polimorfismo de Sobreposição<br>
+• ExPOO_13 - Polimorfismo de Sobrecarga<br>
